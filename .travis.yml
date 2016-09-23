@@ -1,0 +1,13 @@
+language: cpp
+compiler:
+- gcc
+
+script:
+- bash install.sh
+
+#after_success:
+#- make test
+#- coveralls --exclude "test" --exclude "CMakeFiles" --include "lib/" 
+
+notifications:
+  email: false
