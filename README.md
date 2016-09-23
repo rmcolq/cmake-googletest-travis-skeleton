@@ -12,9 +12,7 @@ https://github.com/maitesin/blog/tree/master/google_test_2015_12_22
 
 Background reading:
 http://www.kaizou.org/2014/11/gtest-cmake/
-
 https://crascit.com/2015/07/25/cmake-gtest/
-
 http://derekmolloy.ie/hello-world-introductions-to-cmake/
 
 Fixing my initial Github problems with pushing (https vs ssh): https://rc.fas.harvard.edu/resources/documentation/software/git-and-github-on-odyssey/
