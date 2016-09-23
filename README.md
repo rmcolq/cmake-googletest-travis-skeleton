@@ -1,0 +1,1 @@
+# cmake-googletest-travis-skeleton
