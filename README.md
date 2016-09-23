@@ -20,7 +20,7 @@ http://derekmolloy.ie/hello-world-introductions-to-cmake/
 Fixing my initial Github problems with pushing (https vs ssh): https://rc.fas.harvard.edu/resources/documentation/software/git-and-github-on-odyssey/
 
 Enabling Travis on a new repository:
-1. go to https://travis-ci.org/profile/<username>
+1. go to https://travis-ci.org/profile/rmnorris (or your username)
 2. sync with github so new repo is visible
 3. click cross next to repo name to enable travis to work with it
 4. follow the other instructions on the page...
